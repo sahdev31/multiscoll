@@ -1,0 +1,90 @@
+.one{
+    background: crimson;
+    color: #fff;
+    text-align: center;
+}
+
+.one h1{
+    font-size: 65px;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.one p{
+    padding: 0 15%;
+    font-size: 25px;
+    font-family: 'merilinda''Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.one a{
+    background: #252525;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 40px;
+    display: inline-block;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.four{
+    background: url(./How-to-Become-a-Programmer-1200x900.PNG);
+    background-size: cover;
+    background-position: center center; 
+}
+
+.two{
+    background: url(./1*0FqDC0_r1f5xFz3IywLYRA.jpeg);
+    background-size: cover;
+    background-position: center center;
+}
+
+.five{
+    background-image: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)), url(./how-to-become-a-programmer.jpg);
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+    color: #fff;
+}
+
+.five h2{
+    font-size: 65px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+}
+
+.five p{
+    padding: 0 15%;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.three{
+    background: url(./iStock-518700486.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+
+.six{
+    text-align: center;
+}
+
+.six input{
+    width: 350px;
+    margin-bottom: 20px;
+    height: 30px;
+    border: 1px solid #000;
+}
+
+.six a{
+    display: block;
+    text-decoration: none;
+    background: #000;
+    width: 350px;
+    margin: 0 auto;
+    color: #fff;
+    padding: 10px 0;
+}
+
+#multiscroll-nav span{
+    border: 1px solid #dc143c;
+    background: #dc143c;
+}
